@@ -1,5 +1,6 @@
 # Guess-My-Number!
 'Guess My Number!' is a JavaScript game made based on the tutorial by instructor Jonas Schmedtmann on Udemy. Slight edits have been made on the game's user interface. 
+
 <img width="1439" alt="Screenshot 2022-05-12 at 10 03 22 PM" src="https://user-images.githubusercontent.com/35587864/168093718-a9b13c7d-35ee-4a15-84c1-a8960272a7f8.png">
 
 ## How to play the game? 
